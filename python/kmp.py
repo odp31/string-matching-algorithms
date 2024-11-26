@@ -1,3 +1,6 @@
+# Knuth Morris Pratt Algorithm
+# time complexity; O(m + n) 
+
 def compute_prefix_function(pattern):
   """ computes prefix function for pattern string 
   args;
