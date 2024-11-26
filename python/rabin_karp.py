@@ -1,3 +1,4 @@
+# time complexity; O(mn) in worst cases, but often performs better 
 def rabin_karp(text, pattern):
   """
   finds all occurrences of a pattern in a text using the Rabin-Karp algorithm
